@@ -16,10 +16,9 @@ st.write("Adjust the sliders and dropdowns below — predictions update live wit
 def load_models():
     model_lower = joblib.load("model_lower.pkl")
     model_upper = joblib.load("model_upper.pkl")
-    model = joblib.load("model.pkl")
-    return model_lower, model_upper, model
+    return model_lower, model_upper, 
 
-model_lower, model_upper, model = load_models()
+model_lower, model_upper = load_models()
 qt = joblib.load("quantile_transformer.pkl")
 
 # ------------------------- LAYOUT: INPUT (LEFT) & OUTPUT (RIGHT) -------------------------
