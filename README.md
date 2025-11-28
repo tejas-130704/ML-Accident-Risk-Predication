@@ -1,4 +1,4 @@
-## ⚙️ Accident Risk Prediction App
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 222052" src="https://github.com/user-attachments/assets/ef750f56-08e7-4d7d-bb32-5a289668e1d9" />## ⚙️ Accident Risk Prediction App
 
 An **interactive Streamlit web app** that predicts the likelihood of road accidents based on **environmental and road parameters**.
 It uses trained machine learning models to provide **mean risk predictions** and a **95% confidence interval**, updating **live** as you adjust inputs.
@@ -40,6 +40,18 @@ accident-risk-predictor/
 ├── app.py
 └── README.md
 ```
+
+---
+### Screenshots
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 222052" src="https://github.com/user-attachments/assets/2a2cf958-842f-4594-9ebb-287785f2851c" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 222002" src="https://github.com/user-attachments/assets/e6b1b79a-08e6-4508-bc8a-9da1f4bd9feb" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 222002" src="https://github.com/user-attachments/assets/01fd3f0a-3113-43e1-b0b1-718675b0ea39" />
+
+
 
 ---
 
